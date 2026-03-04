@@ -7,8 +7,7 @@ Ecosystem Registry Specification (Class E)
 DOCUMENT ID:
 REG-L1-GLOBAL-MATRIX-001
 
-VERSION:
-v1.0.0
+VERSION: v1.1.0
 
 STATUS:
 Active / Canonical Inventory
@@ -70,8 +69,11 @@ Status: Active
 
 05. prospera-intelligence
 Primary: TYPE A
-Secondary: MND-L1
-Status: Active
+Secondary: MND-L1 – Intelligence Charter (Deprecated)
+Status: Deprecated / Merged into Governance-Core (Appendix)
+Structural Note:
+Merged into Prospera-Governance-Core via
+APPENDIX_INTELLIGENCE_CHARTER_v1.0.0.md
 
 06. prospera-engineering-codex
 Primary: TYPE C
